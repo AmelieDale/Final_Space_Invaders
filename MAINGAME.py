@@ -429,6 +429,13 @@ class Game:
                     for alien in aliens_shot:
                         self.score += alien.value
                         laser.kill()
+                
+                if pygame.sprite.spritecollide(laser, self.mystery_group, dokill=True):
+                    if self.explosion_sound:
+                        try: self.explosion_sound.play()
+                        except: pass
+                    laser.kill()
+                    self.score += 300
         
         if self.alien_lasers:
             for laser in self.alien_lasers:
