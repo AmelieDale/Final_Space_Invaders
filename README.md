@@ -31,3 +31,6 @@ For detailed information about the development of *Final Space Invaders*, please
 
 - **[Conclusion & Self-Evaluation](https://github.com/AmelieDale/Final_Space_Invaders/wiki/Development-Log#conclusion)**  
   A reflective evaluation of the project, discussing what went well, lessons learned, and areas for future improvement.
+
+  **[Issues](https://github.com/AmelieDale/Final_Space_Invaders/issues)**  
+  A record of the issues encountered during development and how they were resolved. Issues have been left active to demonstrate the problem-solving process and development workflow.
