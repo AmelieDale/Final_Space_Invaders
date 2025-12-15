@@ -10,6 +10,6 @@ A Space Invaders–style arcade game developed in Python as part of the COM4023 
 
 # Documentation
 
-For more detailed information, please see the following links:
+For detailed information, please visit the [Wiki]([https://github.com/AmelieDale/Final_Space_Invaders/wiki]:
 
-*https://github.com/AmelieDale/Final_Space_Invaders/wiki 
+- [Home]([https://github.com/AmelieDale/Final_Space_Invaders/wiki/Home]) – Game overview, controls, and how to play
