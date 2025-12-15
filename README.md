@@ -15,7 +15,7 @@ A Space Invaders–style arcade game developed in Python as part of the COM4023 
 For detailed information about the development of *Final Space Invaders*, please visit the project **Wiki**:
 
 - **[Home](https://github.com/AmelieDale/Final_Space_Invaders/wiki)**  
-  An overview of the game, its purpose, and core features.
+  An overview of the game, its purpose, requirment ownership, and core features.
 
 - **[Planning & Preparation](https://github.com/AmelieDale/Final_Space_Invaders/wiki/Development-Log#planning--preparation)**  
   Details on the initial planning process, design decisions, and preparation before coding began.
