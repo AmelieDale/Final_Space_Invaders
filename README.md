@@ -3,7 +3,10 @@
 A Space Invaders–style arcade game developed in Python as part of the COM4023 CW1 assignment, featuring multiple difficulty levels.
 
 
-<p align="center">![title screen](https://github.com/user-attachments/assets/b756617a-9c55-46f9-83ff-d92dcedab237)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/880937b0-7358-4328-9d20-01efdebb58ca" alt="title screen">
+</p>
+
 
 
 ---
