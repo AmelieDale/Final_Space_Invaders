@@ -10,7 +10,7 @@ A Space Invaders–style arcade game developed in Python as part of the COM4023 
 
 
 ---
-## 📘 Documentation
+## Documentation
 
 For detailed information about the development of *Final Space Invaders*, please visit the project **Wiki**:
 
