@@ -10,6 +10,21 @@ A Space Invaders–style arcade game developed in Python as part of the COM4023 
 
 
 ---
+
+## Team
+
+Amelie Dale - 22503140@bnu.ac.uk
+Holly Dickinson - 22503136@bnu.ac.uk
+
+---
+
+## Course Information
+
+Module: COM4023 Programming Concepts 
+Assignment: CW1 Project
+
+---
+
 ## Documentation
 
 For detailed information about the development of *Final Space Invaders*, please visit the project **Wiki**:
@@ -76,3 +91,5 @@ Final_Space_Invaders/
 │   └── monogram.ttf        # Font used for UI elements
 │
 └── __pycache__/             # Cached Python files (auto-generated)
+
+
