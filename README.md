@@ -38,7 +38,7 @@ For detailed information about the development of *Final Space Invaders*, please
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Final_Space_Invaders/
