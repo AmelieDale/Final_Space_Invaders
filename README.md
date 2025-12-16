@@ -54,6 +54,21 @@ For detailed information about the development of *Final Space Invaders*, please
 
 ---
 
+## How to run
+
+1. Ensure you have Python 3.8+ installed.
+2. Install dependencies:
+   ```bash
+   pip install pygame
+From the repository root, run:
+
+bash
+Copy code
+python main_game.py
+
+
+---
+
 ## Project Structure
 
 ```text
