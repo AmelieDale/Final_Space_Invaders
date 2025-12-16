@@ -14,6 +14,7 @@ A Space Invaders–style arcade game developed in Python as part of the COM4023 
 ## Team
 
 Amelie Dale - 22503140@bnu.ac.uk
+
 Holly Dickinson - 22503136@bnu.ac.uk
 
 ---
