@@ -84,8 +84,8 @@ Final_Space_Invaders/
 ├── play.py                 # Player controls and movement
 ├── mysteryship.py          # Mystery ship behaviour and logic
 │
-├── main-amelie.py          # Amelie's development version
-├── main-holly.py           # Holly's development version
+├── main-amelie.py          # Amelie's development of Requirnment
+├── main-holly.py           # Holly's development of Requirnment
 │
 ├── Fonts/                  # Font assets used in the game
 │   ├── Invaders-6RY1.ttf   # Retro-style game font
